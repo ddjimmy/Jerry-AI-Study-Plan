@@ -1,5 +1,7 @@
 # Jerry AI Study Plan
 
+[中文版本](README.zh-CN.md)
+
 A 12-week hands-on AI learning program for a CEGEP Computer Science student.
 
 The goal is not to collect more beginner certificates. The goal is to build real engineering ability through a repeatable loop:
@@ -33,7 +35,11 @@ The goal is not to collect more beginner certificates. The goal is to build real
 | 11 | Streamlit and FastAPI | AI Application |
 | 12 | Capstone | AI Game Lab |
 
-See [12-WEEK-ROADMAP.md](12-WEEK-ROADMAP.md) for the detailed plan and the `weeks/` folder for day-by-day tasks.
+See [12-WEEK-ROADMAP.md](12-WEEK-ROADMAP.md) for the detailed plan and [weeks/en/](weeks/en/) for day-by-day tasks.
+
+## Language Strategy
+
+English is the primary language for engineering implementation and GitHub portfolio presentation. Complete Simplified Chinese versions of the learning materials are provided for study, discussion, and parent review. Executable source code is shared and uses English names and comments.
 
 ## End Goal
 

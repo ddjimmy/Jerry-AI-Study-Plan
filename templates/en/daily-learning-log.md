@@ -1,5 +1,7 @@
 # Daily Learning Log
 
+[中文版本](../zh-CN/daily-learning-log.md)
+
 **Date:**  
 **Week / Day:**  
 

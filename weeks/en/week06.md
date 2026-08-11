@@ -1,5 +1,7 @@
 # Week 6 — PyTorch Fundamentals
 
+[中文版本](../zh-CN/week06.md)
+
 ## Goal
 Understand a neural-network training loop.
 

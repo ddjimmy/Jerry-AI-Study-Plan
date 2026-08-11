@@ -1,5 +1,7 @@
 # Week 7 — Computer Vision
 
+[中文版本](../zh-CN/week07.md)
+
 ## Goal
 Build an **Image Classifier App**.
 

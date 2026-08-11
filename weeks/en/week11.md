@@ -1,5 +1,7 @@
 # Week 11 — AI Application Engineering
 
+[中文版本](../zh-CN/week11.md)
+
 ## Goal
 Turn models into something another person can use.
 

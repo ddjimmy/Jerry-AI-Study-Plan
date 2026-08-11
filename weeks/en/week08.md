@@ -1,5 +1,7 @@
 # Week 8 — Object Detection with YOLO
 
+[中文版本](../zh-CN/week08.md)
+
 ## Goal
 Build a custom detector.
 

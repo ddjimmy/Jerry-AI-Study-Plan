@@ -1,5 +1,7 @@
 # Week 9 — LLM Applications
 
+[中文版本](../zh-CN/week09.md)
+
 ## Goal
 Build **AI Game Coach v2**.
 

@@ -1,5 +1,7 @@
 # Parent Guide
 
+[中文版本](PARENT-GUIDE.zh-CN.md)
+
 The parent's job is to enforce consistency, not to become the AI instructor.
 
 ## Weekly Demo Questions

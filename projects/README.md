@@ -1,5 +1,7 @@
 # Projects
 
+[中文版本](README.zh-CN.md)
+
 This folder is for project work produced during the study plan.
 
 Recommended projects:

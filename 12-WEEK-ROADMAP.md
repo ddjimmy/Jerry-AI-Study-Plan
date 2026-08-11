@@ -1,5 +1,7 @@
 # 12-Week AI Roadmap
 
+[中文版本](12-WEEK-ROADMAP.zh-CN.md)
+
 ## Phase 1 — Python + Data
 
 ### Week 1 — Python for AI

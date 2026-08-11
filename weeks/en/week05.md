@@ -1,5 +1,7 @@
 # Week 5 — Project: AI Gaming Performance Coach
 
+[中文版本](../zh-CN/week05.md)
+
 ## Goal
 Build the first complete ML mini-project.
 

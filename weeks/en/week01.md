@@ -1,5 +1,7 @@
 # Week 1 — Python for AI
 
+[中文版本](../zh-CN/week01.md)
+
 ## Goal
 Build **Game Statistics Analyzer v1** and establish the Git/GitHub habit.
 

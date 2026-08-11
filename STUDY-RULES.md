@@ -1,5 +1,7 @@
 # Study Rules
 
+[中文版本](STUDY-RULES.zh-CN.md)
+
 ## Weekly Rhythm
 
 - Monday–Friday: 60–90 minutes per day.
@@ -49,3 +51,11 @@ If the student cannot explain an important section of AI-generated code, that se
 Gaming, Discord/chatting, Shorts/TikTok, casual YouTube, and browser mini-games are treated as entertainment time.
 
 Daily AI work should be completed before entertainment time.
+
+## Bilingual Documentation Rule
+
+- English is the primary language for code, Git commits, and portfolio presentation.
+- Important learning materials must have complete English and Simplified Chinese versions.
+- When one language version changes materially, update and verify its counterpart.
+- Every document pair must include working cross-language links near the top.
+- Executable source code is shared; do not create separate implementations by language.

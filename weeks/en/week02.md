@@ -1,5 +1,7 @@
 # Week 2 — NumPy, Pandas and Visualization
 
+[中文版本](../zh-CN/week02.md)
+
 ## Goal
 Build a **Game Performance Dashboard** notebook.
 

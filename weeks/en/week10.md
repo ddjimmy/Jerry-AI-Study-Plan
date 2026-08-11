@@ -1,5 +1,7 @@
 # Week 10 — Embeddings + RAG
 
+[中文版本](../zh-CN/week10.md)
+
 ## Goal
 Build an **AI Study Buddy** over personal notes.
 

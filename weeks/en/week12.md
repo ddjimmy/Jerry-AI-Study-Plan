@@ -1,5 +1,7 @@
 # Week 12 — Capstone: AI Game Lab
 
+[中文版本](../zh-CN/week12.md)
+
 ## Rule
 Do not learn a new framework this week. Finish and polish.
 

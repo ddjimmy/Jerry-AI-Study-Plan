@@ -1,5 +1,7 @@
 # Week 4 — Model Evaluation
 
+[中文版本](../zh-CN/week04.md)
+
 ## Goal
 Stop treating accuracy as the only metric.
 

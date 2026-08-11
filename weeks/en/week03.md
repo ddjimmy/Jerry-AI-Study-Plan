@@ -1,5 +1,7 @@
 # Week 3 — First Machine Learning Models
 
+[中文版本](../zh-CN/week03.md)
+
 ## Goal
 Understand the core supervised-learning workflow.
 

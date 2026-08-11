@@ -1,5 +1,7 @@
 # Weekly Demo
 
+[中文版本](../zh-CN/weekly-demo.md)
+
 **Week:**  
 **Date:**  
 

@@ -1,5 +1,7 @@
 # Project Name
 
+[中文版本](../zh-CN/project-readme-template.md)
+
 ## Problem
 
 What problem does this project solve?
