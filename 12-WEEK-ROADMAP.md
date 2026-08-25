@@ -27,15 +27,22 @@ Skills:
 
 ## Phase 2 — Machine Learning
 
-### Week 3 — First ML Models
-Train classification models using scikit-learn.
+### Week 3 — Machine Learning: Can AI Predict a Win?
+Build a **Game Result Predictor** that classifies completed sessions as WIN or LOSS using scikit-learn.
 
 Skills:
 - features and labels
+- missing-value decisions for ML
 - train/test split
 - Logistic Regression
 - Decision Trees
 - Random Forest
+- fit, predict and basic accuracy
+- rule-based decisions vs patterns learned from data
+- tiny-dataset reasoning
+
+Reality check:
+The 15-session dataset is useful for learning the workflow, not proving reliable performance. Because most features are final session statistics, this is completed-session classification rather than a true pre-game prediction.
 
 ### Week 4 — Model Evaluation
 Build a **Model Battle** comparing multiple algorithms.
