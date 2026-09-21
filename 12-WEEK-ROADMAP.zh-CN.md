@@ -50,19 +50,23 @@
 Reality check：
 15 个场次适合学习工作流程，但不能证明模型表现可靠。由于多数特征是最终场次统计，这属于完整场次分类，而不是真正的赛前预测。
 
-### 第 4 周：模型评估
+### 第 4 周：我们能相信 AI 的预测吗？
 
-构建一个比较多种算法的**模型对决（Model Battle）**。
+构建一份比较多种算法、但不强行选出赢家的**游戏 AI 模型可信度报告（Game AI Model Trust Report）**。
 
 技能：
 
-- 准确率（accuracy）
-- 精确率（precision）
-- 召回率（recall）
-- F1 分数
-- 混淆矩阵（confusion matrix）
-- 过拟合（overfitting）
-- 欠拟合（underfitting）
+- 准确率（accuracy）与基线（baseline）
+- 类别不平衡（class imbalance）
+- 精确率（precision）、召回率（recall）与 F1 分数
+- 混淆矩阵（confusion matrix）与错误分析
+- 训练集与测试集表现
+- 过拟合（overfitting）、欠拟合（underfitting）与泛化（generalization）
+- 使用简单 pipeline 完成 scaling 的 K 近邻（K-Nearest Neighbors, KNN）
+- 基于证据选择模型
+
+Reality check：
+删除不完整记录后只剩 14 个场次，因此 20% 的测试集大约只有 3 个样本。第 4 周的指标用于学习评估方法，不能证明模型已经可靠。
 
 ### 第 5 周：机器学习项目
 

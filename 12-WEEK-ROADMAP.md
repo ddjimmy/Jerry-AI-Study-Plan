@@ -44,17 +44,21 @@ Skills:
 Reality check:
 The 15-session dataset is useful for learning the workflow, not proving reliable performance. Because most features are final session statistics, this is completed-session classification rather than a true pre-game prediction.
 
-### Week 4 — Model Evaluation
-Build a **Model Battle** comparing multiple algorithms.
+### Week 4 — Can We Trust the AI?
+Build a **Game AI Model Trust Report** that compares multiple algorithms without forcing a winner.
 
 Skills:
-- accuracy
-- precision
-- recall
-- F1
-- confusion matrix
-- overfitting
-- underfitting
+- accuracy and baselines
+- class imbalance
+- precision, recall, and F1
+- confusion matrix and error analysis
+- training versus test performance
+- overfitting, underfitting, and generalization
+- scaled K-Nearest Neighbors (KNN) with a simple pipeline
+- evidence-based model selection
+
+Reality check:
+After removing the incomplete row, only 14 sessions remain, so a 20% test split contains about three examples. Week 4 metrics are learning evidence, not proof that a model is reliable.
 
 ### Week 5 — ML Project
 Build **AI Gaming Performance Coach**.

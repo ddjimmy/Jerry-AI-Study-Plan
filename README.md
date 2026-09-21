@@ -25,7 +25,7 @@ The goal is not to collect more beginner certificates. The goal is to build real
 | 1 | Python for AI | Game Statistics Analyzer |
 | 2 | NumPy, Pandas, Visualization | Game Performance Dashboard |
 | 3 | Machine Learning: Game Result Classification | Game AI Friday #2: Result Predictor |
-| 4 | Model Evaluation | Model Battle |
+| 4 | Model Evaluation and Trust | Game AI Friday #3: Model Trust Report |
 | 5 | ML Project | AI Gaming Performance Coach |
 | 6 | PyTorch Fundamentals | First Neural Network |
 | 7 | Computer Vision | Image Classifier App |
